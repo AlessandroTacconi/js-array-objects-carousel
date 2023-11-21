@@ -5,32 +5,30 @@ const arrayInput = [
   {
     immagineURL: 'img/01.jpg',
     titolo: 'Ragazzo sul lago',
-    descrizione:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.',
+    descrizione: 'Momento sereno di contemplazione vicino a un lago.',
   },
   {
     immagineURL: 'img/02.jpg',
     titolo: 'Austria',
-    descrizione:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.',
+    descrizione: 'Paesaggi alpini pittoreschi e ricca eredità culturale.',
   },
   {
     immagineURL: 'img/03.jpg',
     titolo: 'Londra',
     descrizione:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.',
+      'Metropoli dinamica con architetture iconiche e vita culturale vibrante.',
   },
   {
     immagineURL: 'img/04.jpg',
     titolo: 'Dresda',
     descrizione:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.',
+      'Atmosfera barocca e patrimonio storico in una città affascinante.',
   },
   {
     immagineURL: 'img/05.jpg',
     titolo: 'Spiaggia',
     descrizione:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.',
+      'Sabbia dorata, onde rilassanti e panorami marini incantevoli.',
   },
 ];
 

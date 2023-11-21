@@ -31,8 +31,24 @@
   object-fit: cover;
 }
 
+.item h2,
+.item p {
+  position: absolute;
+  color: white;
+}
+
+.item h2 {
+  top: 20px;
+  left: 20px;
+}
+
 .item.active {
   display: block;
+}
+
+.item p {
+  top: 50px;
+  left: 20px;
 }
 
 .prev,
